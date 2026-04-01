@@ -1,0 +1,6 @@
+<html>
+  <body style="background: #f0f0f0; font-family: sans-serif; text-align: center;">
+    <h1>Solo Lab 11 Deployment</h1>
+    <p>Successfully hosted by [Your Name]</p>
+  </body>
+</html>
